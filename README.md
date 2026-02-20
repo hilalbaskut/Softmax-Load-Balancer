@@ -1,7 +1,7 @@
 # Softmax-Load-Balancer
 # Dağıtık Sistemler: Softmax Load Balancer Simülasyonu
 
-Bu proje, bir sunucu kümesine gelen istekleri **Softmax Action Selection** algoritması kullanarak optimize eden bir istemci taraflı (client-side) yük dengeleyici simülasyonudur.
+Bu proje, bir sunucu kümesine gelen istekleri **Softmax Action Selection** algoritması kullanarak optimize eden bir istemci taraflı (client-side) yük dengeleyici simülasyonudur. 
 
 ## 📌 Proje Amacı
 Sunucuların performanslarının zamanla değiştiği (**non-stationary distribution**) bir ortamda, toplam bekleme süresini (latency) minimize ederek toplam ödülü (reward) maksimize etmek.
